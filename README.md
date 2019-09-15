@@ -1,2 +1,2 @@
-# oam_chiba20190914kodaira
+# oam_kodaira20190914kamijukuelementalschool
 小平市総合防災訓練ドローン空撮 2019年9月14日
